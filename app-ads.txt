@@ -36,3 +36,5 @@ yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
 vungle.com, 6ab69532adbd10019b9aed90, DIRECT, c107d686becd2d77
 bigo.sg,xujwlky39u,DIRECT
+pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007501, RESELLER, d641df8625486a7b
