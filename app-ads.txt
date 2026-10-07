@@ -35,3 +35,4 @@ xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
 vungle.com, 6ab69532adbd10019b9aed90, DIRECT, c107d686becd2d77
+bigo.sg,xujwlky39u,DIRECT
